@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ThreeEntries/1.0.0": {
+        "runtime": {
+          "ThreeEntries.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThreeEntries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
